@@ -1,0 +1,7 @@
+{
+  "name": "ForToGo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
